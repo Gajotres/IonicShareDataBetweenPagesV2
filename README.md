@@ -1,1 +1,0 @@
-# IonicShareDataBetweenPagesV2
